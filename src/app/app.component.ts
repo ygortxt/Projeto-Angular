@@ -1,10 +1,11 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { ContatoComponent } from "./pages/contato/contato.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, ContatoComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

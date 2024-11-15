@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url('/src/assets/fundo.jpg');
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.link{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 3px;
+}
+
+main{
+    background-image: url('/src/assets/fundo.jpg');
+}
+
+

@@ -1,0 +1,80 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    padding: 5px;
+}
+
+.link{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 3px;
+}
+
+.categoria{
+    margin-top: 15px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    gap: 160px;
+    margin-right: 20px;
+}
+
+.img{
+    width: 340px;
+    display: flex;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.valores{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 10px;
+    gap: 250px;
+}
+
+a{
+    background-color: rgb(0, 0, 0);
+    padding: 4px;
+    border-radius: 10px;
+}
+
+h2{
+    background-color: white;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.categoria1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 160px;
+    margin-left: 15px;
+}
+
+.img2{
+    width: 340px;
+    display: flex;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
